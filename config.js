@@ -7,8 +7,8 @@ const __dirname = path.dirname(__filename);
 // ===================== BOT CONFIGURATION =====================
 // Fill the blank values below before deployment.
 const BOT_NAME = "𒆜𝘿𝙀𝙑𝙄𝙇 𝙓𝙈𝘿𒆜";
-const OWNER_NAME = "𓆩𝑿 𝑫𝑬𝑽𝑰𝑳𓆪";
-const DEVELOPER_NAME = "𓆩𝑿 𝑫𝑬𝑽𝑰𝑳𓆪";
+const OWNER_NAME = "𝕽𝖆𝖚𝖓𝖆𝖐";
+const DEVELOPER_NAME = "𓆩𝑫𝑬𝑽𝑰𝑳𓆪";
 const OWNER_NUMBER = "917384707086";
 const PREFIX = ".";
 
