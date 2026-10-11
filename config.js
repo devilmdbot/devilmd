@@ -24,7 +24,7 @@ const TG_ADMIN_LINK = "t.me/devilhacccker ";
 // WhatsApp channel + menu media
 const WA_CHANNEL_LINK = "https://whatsapp.com/channel/0029Vb8uAvC3AzNWuJWyu32i";
 const WA_CHANNEL_JID = "120363427966350151@newsletter";
-const BOT_PIC_URL = "https://files.catbox.moe/gap5wz.jpg";
+const BOT_PIC_URL = "https://files.catbox.moe/apszrj.png";
 const MENU_VIDEO_URL = "https://files.catbox.moe/txke1e.mp4";
 const MENU_AUDIO_URL = "https://files.catbox.moe/8jkm48.mp3";
 
