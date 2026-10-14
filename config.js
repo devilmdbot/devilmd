@@ -15,7 +15,7 @@ const PREFIX = ".";
 // Telegram pairing/control bot
 const BOT_TOKEN_TELEGRAM = "8911964479:AAHoUKqZbukictmVEs0dUaLPXAolDwZX6_s";
 const TG_ADMIN_IDS = ["6710104439","6710104439"];
-const TG_CHANNEL_ID = "https://t.me/devilmdbot_123";
+const TG_CHANNEL_ID = "@devilmdbot_123";
 const TG_CHANNEL_LINK = "https://t.me/devilmdbot_123";
 const TG_GROUP_ID = "-1003704684822";
 const TG_GROUP_LINK = "https://t.me/devilx_pair_bot";
