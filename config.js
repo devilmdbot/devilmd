@@ -9,11 +9,11 @@ const __dirname = path.dirname(__filename);
 const BOT_NAME = "𒆜𝘿𝙀𝙑𝙄𝙇 𝙓𝙈𝘿𒆜";
 const OWNER_NAME = "𝕽𝖆𝖚𝖓𝖆𝖐";
 const DEVELOPER_NAME = "𓆩𝑫𝑬𝑽𝑰𝑳𓆪";
-const OWNER_NUMBER = "9647876302380";
+const OWNER_NUMBER = "919476448573";
 const PREFIX = ".";
 
 // Telegram pairing/control bot
-const BOT_TOKEN_TELEGRAM = "8911964479:AAHoUKqZbukictmVEs0dUaLPXAolDwZX6_s";
+const BOT_TOKEN_TELEGRAM = "8608962085:AAGi_Yi8pW1W---jUu9mcUTGFIKmCUqTlVc";
 const TG_ADMIN_IDS = ["6710104439","6710104439"];
 const TG_CHANNEL_ID = "@devilmdbot_123";
 const TG_CHANNEL_LINK = "https://t.me/devilmdbot_123";
